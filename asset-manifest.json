@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harshit720/static/css/main.f96f07a4.css",
+    "main.js": "/harshit720/static/js/main.34e8e34a.js",
+    "static/js/592.9fc17e85.chunk.js": "/harshit720/static/js/592.9fc17e85.chunk.js",
+    "index.html": "/harshit720/index.html",
+    "main.f96f07a4.css.map": "/harshit720/static/css/main.f96f07a4.css.map",
+    "main.34e8e34a.js.map": "/harshit720/static/js/main.34e8e34a.js.map",
+    "592.9fc17e85.chunk.js.map": "/harshit720/static/js/592.9fc17e85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.34e8e34a.js"
+  ]
+}
